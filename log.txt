@@ -1,4 +1,0 @@
-Jan 01 10:01:11 sshd[1999]: Failed password from 192.168.1.10
-Jan 01 10:01:15 sshd[1999]: Failed password from 192.168.1.11
-Jan 01 10:01:17 sshd[1999]: Failed password from 192.168.1.10
-Jan 01 10:01:21 sshd[1999]: Failed password from 192.168.1.10
