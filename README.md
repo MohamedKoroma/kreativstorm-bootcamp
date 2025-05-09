@@ -1,3 +1,5 @@
+🧪 [Burp Suite Web Vulnerability Scan Demo](./burp-suite-scan/burp_scan_report.md)
+
 # Python Project – Failed Login IP Blocker
 
 This script analyzes SSH logs and identifies repeated failed login attempts from the same IP address.
