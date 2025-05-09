@@ -48,9 +48,9 @@ Built a Python script to parse server logs and detect brute force login attempts
 
 ---
 
-## 🖼️ Certificate Preview
+## 📄 Certificate Preview
 
-![Certificate](Mohamed_Koroma_Cybersecurity_Certificate.pdf)
+📄 [View Certificate PDF](./Mohamed_Koroma_Cybersecurity_Certificate.pdf)
 
 ---
 
